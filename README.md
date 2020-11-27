@@ -1,6 +1,6 @@
-# Job application tests in python
+# Job application tests
 
-This repository contains coding in python developed in job application tests.
+This repository contains coding developed for job applications.
 
 ---
 
